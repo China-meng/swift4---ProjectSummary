@@ -9,5 +9,5 @@ pod 'SnapKit'
 pod 'Alamofire'
 pod 'Kingfisher'
 pod 'AlamofireImage'
-
+pod 'MJRefresh'
 end

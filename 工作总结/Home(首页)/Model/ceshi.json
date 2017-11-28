@@ -78,13 +78,13 @@
                "vip" : 0,
                "icon" : "001.png",
                "intro" : "",
-               "name" : "第三方 - SYRefresh"
+               "name" : "MJRefresh"
                },
                {
                "vip" : 1,
                "icon" : "003.png",
                "intro" : "",
-               "name" : "SYRefresh"
+               "name" : "MJRefresh"
                },
                {
                "vip" : 1,
